@@ -1,0 +1,84 @@
+
+h3{
+    color: #0081C9;
+    font-size: x-large;
+}
+
+
+.Logo{
+    border-radius: 40%;
+    width: 75px;
+    margin-top: 3px;
+    margin-left: 3%;
+}
+.navBar{
+    background-color: #0081C9;
+    
+}
+.logins{
+
+    display:flex;
+    flex-direction:row;
+    width: fit-content;
+    border-style: solid;
+    border-color: #0081C9;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    padding: 35px;
+    padding-right: 100px;
+
+
+}
+.Customer{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-right: 5%;
+}
+.Doctor{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+}
+.Login{
+    margin-top: 10%;
+    border-style: solid;
+    border-color: #0081C9;
+    color: white;
+    background-color: #0081C9;
+    padding: 7%;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+.Login:hover{
+    margin-top: 10%;
+    border-style: solid;
+    border-color: #0081C9;
+    color: #0081C9;
+    background-color: white;
+    padding: 7%;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: large;
+}
+.custo{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #0081C9;
+    border-radius: 100%;
+    padding: 5px;
+}
+.doc{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #0081C9;
+    border-radius: 100%;
+    padding: 5px;
+}

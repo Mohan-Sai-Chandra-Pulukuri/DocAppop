@@ -1,0 +1,29 @@
+{
+    "Domains":{
+        "Neruology":{},
+        "Physchiyatry":{},
+        "Opthomology":{},
+        "ENT":{},
+        "Pulmonology":{},
+        "Cardiology":{},
+        "Gastrology":{},
+        "Nephrology":{},
+        "Orthology":{}
+    },
+    "RegiUsers":[
+    {
+        "name":"",
+        "age":"",
+        "Date Of Birth":"",
+        "Date Of Appointment":"",
+        "NumberOfPersonsVisiting":""
+        
+    }]
+
+
+
+
+
+
+
+}
